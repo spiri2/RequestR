@@ -79,4 +79,4 @@ class Staff(commands.Cog):
         await interaction.response.send_message("Updating channel failed.", ephemeral=True)
 
 async def setup(bot):
-    await bot.add_cog(Staff(bot), guilds=[discord.Object(id=671490249460940802)])
+    await bot.add_cog(Staff(bot), guilds=[discord.Object(id=GUILD ID HERE)])
