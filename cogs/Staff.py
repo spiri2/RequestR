@@ -20,7 +20,7 @@ class Staff(commands.Cog):
     def __init__(self, bot):
         self.bot = bot
         #self.restricted_channel = channels["request-features"]
-        self.restricted_channel = 1041070946867478628
+        self.restricted_channel = CHANNEL ID HERE
         self.whitelisted_cmd = "request"
 
     @commands.Cog.listener()
