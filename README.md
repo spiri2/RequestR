@@ -34,3 +34,5 @@ There are two commands you need to use to setup Request bot.
 
 ## Anti-Spam
 The bot will automatically delete any message that doesn't follow after using `/request` command. This is to ensure the channel remains free from unnecessary messages and only show requests. Users with `manage messages` perms are exempt from this 
+
+Add the request channel ID on line 23 `self.restricted_channel = CHANNEL ID HERE`
