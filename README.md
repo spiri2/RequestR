@@ -1,4 +1,4 @@
-# GxMod
+# About Requestr
 Requestr allows server owners to keep their "request" channels organized. Whether you get 10, 100, or 1,000 requests by your community, request bot keeps requests inside an embed.  
 
 ## Configuration
