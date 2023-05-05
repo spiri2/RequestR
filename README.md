@@ -3,7 +3,7 @@ Requestr allows server owners to keep their "request" channels organized. Whethe
 
 ## Configuration
 
-Clone the repo: `git clone https://github.com/spiri2/RequestR.git`
+Clone the repo: `git clone git@github.com:spiri2/RequestR.git`
 
 Set your desired prefix and add your bot token in `bot.py`
 
